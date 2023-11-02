@@ -18,7 +18,7 @@
   
 
 <br/>  
-<a href="https://app.daily.dev/dumbie_monkey"><img src="https://api.daily.dev/devcards/3cd9c772ff2043d5b2f3ee9397c4d57d.png?r=6l1" width="400" alt="setha's Dev Card"/></a>
+<a href="https://app.daily.dev/dumbie_monkey"><img src="https://api.daily.dev/devcards/3cd9c772ff2043d5b2f3ee9397c4d57d.png?r=shh" width="400" alt="setha's Dev Card"/></a>
 
 <table><tr><td valign="top" width="33%">
 
