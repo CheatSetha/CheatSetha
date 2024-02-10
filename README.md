@@ -6,9 +6,8 @@
 
 # <div align="center">Developer Full Stack / Next Js Spring boot</div>  
 
-### <div align="center">🚧 My portfolio  redirects you here because i am updating it for 2023 🚧</div><br />
+### <div align="center">🚧 My portfolio  redirects you here because i am updating it for 2024 🚧</div><br />
 
-- 🌱 I’m currently learning Spring / Next js  
   
 
 - 💻 All of my projects are available at (https://github.com/CheatSetha)
