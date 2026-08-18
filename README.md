@@ -94,11 +94,8 @@ setha㉿kali:~$ cat /proc/brain/current_tasks
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cheatsetha&show_icons=true&theme=matrix&hide_border=true&count_private=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cheatsetha&layout=compact&theme=matrix&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cheatsetha&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cheatsetha&theme=github_dark" />
 </p>
 
 <p align="center">
