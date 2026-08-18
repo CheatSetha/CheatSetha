@@ -22,7 +22,7 @@
 ```bash
 setha㉿kali:~$ cat about_me.txt
 name   : setha
-role   : senior officer, offensive security
+role   : security researcher
 focus  : web · network · active directory · core banking · wireless
 os     : kali linux (daily driver) · ubuntu
 setup  : i7 10th gen · 16GB RAM · VMware + VirtualBox
@@ -67,29 +67,16 @@ scripting → python · bash · js/ts
 ---
 
 ```bash
-setha㉿kali:~$ cat ctf_history.log
-[+] TryHackMe         active — writeups dropping regularly
-[+] Hack The Box      active — MakeSense · enigma · OCR webshell · and more
-[+] MPTC CTF          forensic AD1 · MongoDB NoSQL injection · Next.js CVE-2025-29927
-[+] Ghost Command L2  PowerShell deobfuscation — XOR + Base64
-[+] DVWA              classic web vuln grinding
-```
-
-📂 writeups in /writeups — THM · HTB · CTF
-
----
-
-```bash
 setha㉿kali:~$ cat certs.txt
 [✓] Certified in Cybersecurity (CC)
-[ ] PNPT  ◄── in progress
+[✓] PNPT
 [ ] CRTA
 [ ] CRTO  ◄── soon™
 [ ] OSCP  ◄── the grind
 [ ] OSEP
 [ ] OSWE
-[ ] HTB CPTS
-[ ] HTB CWEE
+[ ] HTB CPTS  ◄── in progress
+[✓] HTB CWEE
 [ ] HTB CAPE
 ```
 
@@ -123,22 +110,6 @@ setha㉿kali:~$ cat /proc/brain/current_tasks
 <p align="center">
   <img src="./github_stats.svg" />
 </p>
-
-<details>
-<summary>setha㉿kali:~$ cat github_stats_setup.md</summary>
-
-```bash
-# github terminal stats setup
-# fork: https://github.com/yogeshwaran01/github-stats-terminal-style
-
-1. fork yogeshwaran01/github-stats-terminal-style
-2. add GHT secret → repo settings → secrets → GHT = your PAT
-3. go to Actions → run the workflow manually
-4. set theme = hacker, hostname = kali
-5. embed ./github_stats.svg in your readme
-```
-
-</details>
 
 ---
 
