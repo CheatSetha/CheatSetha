@@ -70,7 +70,7 @@ scripting → python · bash · js/ts
 setha㉿kali:~$ cat certs.txt
 [✓] Certified in Cybersecurity (CC)
 [✓] PNPT
-[ ] CRTA
+[✓] CRTA
 [ ] CRTO  ◄── soon™
 [ ] OSCP  ◄── the grind
 [ ] OSEP
@@ -88,7 +88,7 @@ setha㉿kali:~$ cat /proc/brain/current_tasks
 [~] Android Pentesting — mobile app security
 [~] Red Team Ops      — C2 frameworks, evasion, tradecraft
 [~] CTF Writeups      — documenting the grind publicly
-[~] Cert grind        — CRTO next in queue
+[~] Cert grind        — CPTS next in queue
 ```
 
 ---
