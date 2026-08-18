@@ -76,7 +76,7 @@ setha㉿kali:~$ cat certs.txt
 [ ] OSEP
 [ ] OSWE
 [ ] HTB CPTS  ◄── in progress
-[✓] HTB CWEE
+[✓] HTB CWES
 [ ] HTB CAPE
 ```
 
