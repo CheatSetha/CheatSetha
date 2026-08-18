@@ -102,11 +102,6 @@ setha㉿kali:~$ cat /proc/brain/current_tasks
   <img src="https://streak-stats.demolab.com?user=cheatsetha&theme=matrix&hide_border=true" />
 </p>
 
----
-
-<p align="center">
-  <img src="./github_stats.svg" />
-</p>
 
 ---
 
