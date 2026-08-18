@@ -13,7 +13,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=600&lines=sudo+access+granted...;Senior+Officer+%7C+Offensive+Security;Web+%C2%B7+Network+%C2%B7+AD+%C2%B7+Core+Banking+%C2%B7+Wireless;OSCP+loading...+CRTO+soon%E2%84%A2;pwning+bugs%2C+not+people;coffee+%7C%7C+exit+1" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=600&lines=sudo+access+granted...;Security+Researcher+%7C+Offensive+Security;Web+%C2%B7+Network+%C2%B7+AD+%C2%B7+Core+Banking+%C2%B7+Wireless;OSCP+loading...+CRTO+soon%E2%84%A2;pwning+bugs%2C+not+people;coffee+%7C%7C+exit+1" alt="Typing SVG" />
   </a>
 </p>
 
